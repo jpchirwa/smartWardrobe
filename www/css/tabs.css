@@ -1,0 +1,111 @@
+/* Your app custom files in this file */
+/* Tab bar icons */
+i.tabbar-demo-icon-10 {
+    width: 50%;
+    height: 50px;
+    background-image: url('../ClothChoices/choice.png');
+}
+
+.active i.tabbar-demo-icon-10 {
+    background-image: url('../ClothChoices/choice.png');
+}
+/* Your app custom files in this file */
+/* Tab bar icons */
+i.tabbar-demo-icon-1 {
+    width: 30px;
+    height: 30px;
+    background-image: url('../wardrobe icons/download.png');
+}
+.active i.tabbar-demo-icon-1 {
+    background-image: url('../wardrobe icons/download.png');
+}
+i.tabbar-demo-icon-2 {
+    width: 25px;
+    height: 30px;
+    background-image: url('../wardrobe icons/outfit.jpg');
+}
+.active i.tabbar-demo-icon-2 {
+    background-image: url('../wardrobe icons/outfit.jpg');
+}
+i.tabbar-demo-icon-3 {
+    width: 30px;
+    height: 30px;
+    background-image: url('../wardrobe icons/calender.png');
+}
+.active i.tabbar-demo-icon-3 {
+    background-image: url('../wardrobe icons/calender.png');
+}
+i.tabbar-demo-icon-4 {
+    width: 25px;
+    height: 30px;
+    background-image: url('../wardrobe icons/outfit inspiration.png');
+}
+.active i.tabbar-demo-icon-4 {
+    background-image: url('../wardrobe icons/outfit inspiration.png');
+}
+i.tabbar-demo-icon-5 {
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/download.png");
+  }
+.active i.tabbar-demo-icon-5 {
+  background-image: url("icons/download.png");
+  }
+i.tabbar-demo-icon-6 {
+  width: 25px;
+  height: 30px;
+  background-image: url("icons/download.svg");
+  }
+.active i.tabbar-demo-icon-6 {
+  background-image: url("icons/download.svg");
+  }
+#line{
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/home/home.svg");
+  }
+#addclothes {
+    width: 30px;
+    height: 30px;
+    background-image: url('icons/add/add.svg');
+
+}
+  #goback{
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/left/left.svg");
+  }
+#backgroundpic img{
+    width: 100%;
+}
+#closet{
+    background-color:#e1da9e;
+}
+#closetchoice {
+    background-color: #e1da9e;
+}
+#allcontents img{
+    width:50%;
+    height:20%;
+    border:none;
+    padding-bottom:10px;
+    display:block;
+    margin:auto;
+}
+.choices {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+.choices img {
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+}
+.pickem {
+    position: fixed;
+    bottom: 50px;
+    padding: 10px;
+    width: 70px;
+    height: 70px;
+}

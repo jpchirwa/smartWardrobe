@@ -1,0 +1,64 @@
+/* Your app custom files in this file */
+/* Tab bar icons */
+i.tabbar-demo-icon-1 {
+    width: 30px;
+    height: 30px;
+    background-image: url('../wardrobe icons/download.png');
+}
+.active i.tabbar-demo-icon-1 {
+    background-image: url('../wardrobe icons/download.png');
+}
+i.tabbar-demo-icon-2 {
+    width: 25px;
+    height: 30px;
+    background-image: url('../wardrobe icons/outfit.jpg');
+}
+.active i.tabbar-demo-icon-2 {
+    background-image: url('../wardrobe icons/outfit.jpg');
+}
+i.tabbar-demo-icon-3 {
+    width: 30px;
+    height: 30px;
+    background-image: url('../wardrobe icons/calender.png');
+}
+.active i.tabbar-demo-icon-3 {
+    background-image: url('../wardrobe icons/calender.png');
+}
+i.tabbar-demo-icon-4 {
+    width: 25px;
+    height: 30px;
+    background-image: url('../wardrobe icons/outfit inspiration.png');
+}
+.active i.tabbar-demo-icon-4 {
+    background-image: url('../wardrobe icons/outfit inspiration.png');
+}
+i.tabbar-demo-icon-5 {
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/download.png");
+  }
+.active i.tabbar-demo-icon-5 {
+  background-image: url("icons/download.png");
+  }
+i.tabbar-demo-icon-6 {
+  width: 25px;
+  height: 30px;
+  background-image: url("icons/download.svg");
+  }
+.active i.tabbar-demo-icon-6 {
+  background-image: url("icons/download.svg");
+  }
+#line{
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/home/home.svg");
+  }
+  #goback{
+  width: 30px;
+  height: 30px;
+  background-image: url("icons/left/left.svg");
+  }
+#backgroundpic {
+    background-size:cover;
+    width: 100%;
+}
